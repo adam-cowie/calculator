@@ -1,0 +1,55 @@
+
+body {
+  width: 100%;
+  background-color:#C33C54;
+}
+
+.calculator {
+  font-family: 'Segoe UI', Tahoma;
+  font-size: 8px;
+  text-align: center;
+  width: 260px;
+  height: 360px;
+  background-color: #254E70;
+  margin: 0 auto;
+  border-radius: 25px;
+  padding: 5px;
+  
+  
+}
+
+
+input {
+  width: 250px;
+  height: 50px;
+  direction: rtl;
+}
+
+.row {
+  
+  display: block;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 7px;
+  margin-top: 7px;
+}
+button {
+  width: 30px;
+  height: 38px;
+  border-radius: 5px;
+}
+
+button.fancy {
+  background-color: #48BF84;
+}
+
+button.big {
+  width: 30px;
+  height: 83px;
+  float: right;
+  margin-left: -50px;
+  margin-right: 56px;
+
+  
+}
